@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tfliteflutter.tflite_flutter_plugin" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->/Users/doanthanhduong/.pub-cache/hosted/pub.dev/tflite_flutter-0.9.0/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="16" />
+7-->/Users/doanthanhduong/.pub-cache/hosted/pub.dev/tflite_flutter-0.9.0/android/src/main/AndroidManifest.xml
+8
+9</manifest>

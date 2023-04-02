@@ -1,0 +1,12 @@
+module tflite_flutter {
+  umbrella header "tflite_flutter-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module tflite_flutter.Swift {
+  header "/Users/doanthanhduong/Downloads/plant-reco/starter/build/ios/Debug-iphonesimulator/tflite_flutter/Swift Compatibility Header/tflite_flutter-Swift.h"
+  requires objc
+}
